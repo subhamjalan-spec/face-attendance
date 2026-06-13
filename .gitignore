@@ -1,0 +1,6 @@
+build/
+models/
+logs/
+.DS_Store
+data/known_faces/
+.vscode/c_cpp_properties.json
